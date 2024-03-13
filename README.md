@@ -1,10 +1,10 @@
 <h1 align="center">ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
 <p align="center">
-  <img src="https://github.com/dilshadhasnain07/Music-bots/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <img src="https://github.com/dilshadhasnain07/Music-bots/blob/main/Music-bots/resources/mukesh.jpg">
 </p>
 <p align="center">
-<a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/dilshadhasnain07/Music-bots/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/dilshadhasnain07/Music-bots/stargazers"><img src="https://img.shields.io/github/stars/dilshadhasnain07/Music-bots?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/dilshadhasnain07/Music-bots/network/members"> <img src="https://img.shields.io/github/forks/dilshadhasnain07/Music-bots?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/dilshadhasnain07/Music-bots/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -33,7 +33,8 @@
 
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dilshadhasnain07/Music-bots"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dilshadhasnain07/Music-bots"> <img
+                                                                                                                 src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
  ━━━━━━━━━━━━━━━━━━━━━━
 <h3> ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ? </h3>
 <h2> <a href="https://youtu.be/YT_nYVb0OxI"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/YT_nYVb0OxI",width="500" height="70">
