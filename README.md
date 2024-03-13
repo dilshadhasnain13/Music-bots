@@ -10,7 +10,7 @@
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/dilshadhasnain07/Music-bots"> <img src="https://img.shields.io/github/repo-size/dilshadhasnain07/Music-bots?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/dilshadhasnain07/Music-bots/commits/Noob-Mukesh "> <img src="https://img.shields.io/github/last-commit/dilshadhasnain07/Music-bots?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/dilshadhasnain07/Music-bots/commits/dilshadhasnain07"> <img src="https://img.shields.io/github/last-commit/dilshadhasnain07/Music-bots?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -48,7 +48,7 @@
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3>
 
-- Get your [Necessary Variables](https://github.com/dilshadhasnain07/Music-bots/blob/main/MukeshRobot/config.py)
+- Get your [Necessary Variables](https://github.com/dilshadhasnain07/Music-bots/blob/main/Music-bots/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -128,6 +128,6 @@ async def some_function(_, message):
  [ HASNAIN ](https://t.me/hasnainkk)
 
  [ᴀɴᴏɴʏᴍᴏᴜs](https://telegram.me/ANIME_FOREST_07)  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Noob-Mukesh/MukeshRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/dilshadhasnain07/Music-bots/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
