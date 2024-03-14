@@ -34,7 +34,8 @@
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dilshadhasnain07/Music-bots"> <img
-                                                                                                                 src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+                                                                                                               src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  
  ━━━━━━━━━━━━━━━━━━━━━━
 <h3> ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ? </h3>
 <h2> <a href="https://youtu.be/YT_nYVb0OxI"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/YT_nYVb0OxI",width="500" height="70">
